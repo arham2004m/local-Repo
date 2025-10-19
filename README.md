@@ -22,4 +22,4 @@ This repository demonstrates "how to push local repo from local system"
 -> git push origin main
 # Shortcut commands
 -> use git commit -am "some message" for those files which are modified only, this way you can add file and commit same time.
--> use git push -u orign main once(i.e.initilization), then only use git push
+-> use git push -u orign main once(i.e.initilization), then only use git push.
