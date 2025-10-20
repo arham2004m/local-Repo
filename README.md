@@ -10,7 +10,7 @@ This repository demonstrates "how to push local repo from local system"
 -> check branch by "git branch"
 -> Rename branch by "git branch -M main"
 -> rest same as web repo
--> push code to repo by "git push origin main"
+-> push code to repo by "git push origin main".
 # Commands used
 -> git init : for declaration of git repo from local system
 -> git add .
