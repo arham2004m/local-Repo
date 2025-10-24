@@ -13,7 +13,7 @@ This repository demonstrates "how to push local repo from local system"
 -> push code to repo by "git push origin main".
 # Commands used
 -> git init : for declaration of git repo from local system
--> git add .
+-> git add . or git add "file_name"
 -> git commit -m "First commit from local system"
 -> git remote add origin "https://github.com/arham2004m/local-Repo.git"
 -> git remote -v
